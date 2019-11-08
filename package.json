@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "~4.0.0",
     "body-parser": "~1.0.1",
-    "csv-parse": "~1.2.4"
+    "csv-parse": "~4.4.6"
   },
   "devDependencies": {},
   "scripts": {
